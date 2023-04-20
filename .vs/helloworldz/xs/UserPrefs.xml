@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{53B7FF6F-1D8E-4D38-806B-220373423D7E}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.helloworldz PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
